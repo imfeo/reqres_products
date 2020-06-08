@@ -8,6 +8,7 @@ phases:
   install:
     runtime-versions:
       java: openjdk8
+
 #      docker: 18
   pre_build:
     commands:
